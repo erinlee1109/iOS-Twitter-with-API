@@ -1,8 +1,9 @@
 # Project 3 - Twitter Imitator
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here are walkthroughs of implemented user stories:
 
+<img src='http://g.recordit.co/d9vSaVpYb1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='http://g.recordit.co/Ix4hmIpQWN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
@@ -46,10 +47,3 @@ The following **bonus** features are implemented:
 
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past tweets infinitely. (2pts)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/d9vSaVpYb1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
